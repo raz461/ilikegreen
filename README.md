@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/IMXNOOBX/green-commits/workflows/ci/badge.svg?branch=master)](https://github.com/IMXNOOBX/green-commits/actions)
 
-Automatically keep GitHub commit status green.
+automatically keep GitHub commit status green.
 
 > a commit a day keeps your girlfriend away. **changed to** a commit a day keeps your girlfriend from going away. 😢
 
